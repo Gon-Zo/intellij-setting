@@ -1,0 +1,12 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Boolean/Flip comparison" />
+    <ignoreAction name="Java/Refactorings/Introduce local variable" />
+    <ignoreAction name="Java/Strings/Replace + with StringBuilder.append()" />
+    <ignoreAction name="Kotlin/Create test" />
+    <ignoreAction name="JavaScript/Introduce local variable" />
+    <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="JavaScript/Other/Replace double-quoted string with single-quoted string" />
+    <ignoreAction name="Other/Convert relative path to absolute" />
+  </component>
+</application>

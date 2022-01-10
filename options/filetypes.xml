@@ -1,0 +1,30 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="kopring-logger" type="AUTO_DETECTED" />
+      <mapping pattern="spring-Docker를 이용한 Jar 파일 배포" type="AUTO_DETECTED" />
+      <mapping pattern="navigation" type="AUTO_DETECTED" />
+      <mapping pattern="tab-navigation" type="AUTO_DETECTED" />
+      <mapping pattern="JasTest" type="AUTO_DETECTED" />
+      <mapping pattern="application-mysql" type="AUTO_DETECTED" />
+      <mapping pattern="around" type="AUTO_DETECTED" />
+      <mapping pattern="ht-progress-chart" type="AUTO_DETECTED" />
+      <mapping pattern="git:stash" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="count" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-frontend" type="PLAIN_TEXT" />
+      <mapping ext="pch" type="PLAIN_TEXT" />
+      <mapping ext="ㅡㅇ" type="PLAIN_TEXT" />
+      <mapping ext="rm" type="PLAIN_TEXT" />
+      <mapping ext="xcconfig" type="PLAIN_TEXT" />
+      <mapping ext="xcscheme" type="PLAIN_TEXT" />
+      <mapping ext="build" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping pattern="ProductManager" type="TypeScript JSX" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+    </extensionMap>
+  </component>
+</application>

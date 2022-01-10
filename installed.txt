@@ -1,0 +1,10 @@
+IdeaVIM
+Key Promoter X
+com.godwin.kdocer
+commit-template-idea-plugin
+de.netnexus.camelcaseplugin
+indent-rainbow.indent-rainbow
+izhangzhihao.rainbow.brackets
+org.jetbrains.kotlin
+org.jetbrains.plugins.spotbugs
+org.jetbrains.plugins.vue

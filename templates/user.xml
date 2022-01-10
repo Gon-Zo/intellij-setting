@@ -1,0 +1,13 @@
+<templateSet group="user">
+  <template name="main" value="fun main(args: Array&lt;String&gt;) {}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="jusuck" value="/**&#10; * Create by park031517@gmail.com on $date$&#10; * Blog : https://zzz-oficial.tistory.com&#10; * Github : https://github.com/Gon-Zo&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="date(&quot;Y-MM-d, E&quot;) " alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

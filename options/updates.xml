@@ -1,0 +1,13 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="emulator#30.7.5" />
+      <item value="extras;intel;Hardware_Accelerated_Execution_Manager#7.6.5" />
+      <item value="platform-tools#31.0.2" />
+      <item value="platforms;android-29#5" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="IU-213.6461.79" />
+    <option name="LAST_TIME_CHECKED" value="1641718427618" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

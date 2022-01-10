@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="pnw123456@icloud.com" id="ee36a759-1dbf-4bfa-96af-3c3094a799a1">
+      <server host="github.com" />
+    </account>
+    <account name="Gon-Zo" id="a01e8da0-be6c-47bf-a191-c1bfbcf2095c">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
