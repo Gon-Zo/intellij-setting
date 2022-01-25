@@ -1,4 +1,3 @@
-# intellij-setting
 
 ## vim dark 
 
